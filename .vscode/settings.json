@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "Eroding-Away-ALPHA.slnx"
+    "dotnet.defaultSolution": "Eroding-Away-Game.slnx"
 }
